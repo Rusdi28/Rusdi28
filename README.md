@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rusdi28
+E- 👋 Hi, I’m @Rusdi28
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,4 +8,3 @@
 Rusdi28/Rusdi28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-LolMiner.exe --algo ETHASH --pool ethash.unmineable.com:3333 --user BNB : bnb1udq3s2yn2q7mq5mlpkrj98uj58s7dujmjrj7nw:1695419 . Rusdi28
