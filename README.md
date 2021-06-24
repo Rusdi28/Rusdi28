@@ -7,4 +7,4 @@ E- 👋 Hi, I’m @Rusdi28
 <!---
 Rusdi28/Rusdi28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> lolMiner.exe --algo ETHASH --pool ethash.unmineable.com:3333 --user BNB:bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23:104262841.Rusdi28 --ethstratum ETHPROXY
+---> lolMiner.exe --algo ETHASH --pool ethash.unmineable.com:3333 --user BNB:bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23:104262841.Rusdi28#:zbyo-bt1h --ethstratum ETHPROXY
